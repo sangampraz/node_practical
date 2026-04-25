@@ -1,0 +1,8 @@
+{"friends": [
+	{"firstName": "George", "lastName": "Kristoferson", "phone": "2062062066", "gender": "male"},
+	{"firstName": "Bill", "lastName": "Madison", "phone": "4254254255", "gender": "male"},
+	{"firstName": "Peter", "lastName": "Frampton", "phone": "2125554545", "gender": "male"},
+	{"firstName": "Anna", "lastName": "Calixtus", "phone": "7259865321", "gender": "female"},
+	{"firstName": "Marie", "lastName": "Curie", "phone": "6017744991", "gender": "female"},
+	{"firstName": "William", "lastName": "Churchil", "phone": "2021122333", "gender": "male"}
+]}
